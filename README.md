@@ -1,12 +1,12 @@
 ## Setup
 
 ### Requreiments
-- Node.js V19+
-- Discord.js V14
+- Python With Version 3.10 or upper
+- discord.py
 
 ### Installation
 1. Clone the repository:
    ```sh
-   git clone https://github.com/RayDev07/Ultimate-All-In-One.git
-   cd Ultimate-All-In-One
-   node src/index.js
+   git clone https://github.com/SparkoXDev/StarterCodePack.git
+   cd StarterCodePack
+   python3 main.py
